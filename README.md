@@ -1,0 +1,2 @@
+# slotmachine
+Playing with Python
